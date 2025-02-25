@@ -9,15 +9,11 @@ Problema: armazene os numeros 2 e 3, calcule a sua soma e imprima na tela o resu
 
 # Alocação de memória
 
-a = 0
-
-b = 0
-
-# Entrada de dados
-
 a = 2
 
 b = 3
+
+# Entrada de dados
 
 # Processamento de dados
 soma = a + b
